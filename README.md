@@ -1,4 +1,6 @@
-# DnD Trading Website
+# DnD Trading Website — Legacy Copy
+
+> **Earlier portfolio copy.** The [current DnD Trading Website repository](https://github.com/DarianRobert/DnD-Trading-Website) contains the original team commit history and is the version linked from my portfolio. This repository is retained as an older snapshot.
 
 An ASP.NET Web Forms application developed for a stationery distribution business as part of a University of KwaZulu-Natal team project in 2025.
 
@@ -62,3 +64,4 @@ The original solution is currently stored in `DNDWebsite (2).zip`. After extract
 
 - [DnD Trading desktop application](https://github.com/DarianRobert/DnD-Trading)
 - [My project portfolio](https://darianrobert.github.io/)
+
